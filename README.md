@@ -3,7 +3,7 @@ This project has been created for IBM Data Science - Coursera Capstone Project: 
 
 ## Introduction/Business Problem
 ### A description of the problem and a discussion of the background
-For that particular project I would be using the provided dataset for the Seattle city with car incidents details.
+For that particular project I would be using the provided dataset for the Seattle city with car incidents details. Unfortunately, car accidents took a first place between any other injury types, so it's very important to propose ways for people to reduce potential injuries, in our case - by predicting probability of accident type based on outside conditions.
 
 By using CRISP-DM model, the first step is "Business Understanding". So, we could create a ML model which based on outside conditions (weather, road, light and may be time of the day) would predict possible accident with different consequences (property damage OR injury). Thus, by using predicted accident type, drivers would be more careful and could reduce the chance of injury while driving.
 
