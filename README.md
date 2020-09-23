@@ -7,6 +7,8 @@ For that particular project I would be using the provided dataset for the Seattl
 
 By using CRISP-DM model, the first step is "Business Understanding". So, we could create a ML model which based on outside conditions (weather, road, light and may be time of the day) would predict possible accident with different consequences (property damage OR injury). Thus, by using predicted accident type, drivers would be more careful and could reduce the chance of injury while driving.
 
+As per target audience - it could be drivers who is planning their trips as well as road workers, who could plan their work in "safety" hours or could improve road conditions.
+
 ## Data
 ### A description of the data and how it will be used to solve the problem
 #### Data Understanding
